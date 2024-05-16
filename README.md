@@ -24,6 +24,50 @@ Jumlah data yang tersedia adalah sebagai berikut:
 - **Data testing:** 359 file yang terdiri dari 36 kelas.
 - **Data validation:** 351 file yang terdiri dari 36 kelas.
 
+## Instalasi
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/your-repo/image-classification-flask.git
+
+cd image-classification-flask
+
+### 2. Create a virtual environment and activate it:
+
+python -m venv venv
+source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
+
+### 3. Install the required packages:
+
+pip install -r requirements.txt
+
+## 4. Pastikan file model Anda ( fruitmodel.h5) ditempatkan di modelsdirektori. Jika Anda tidak memiliki file model, Anda perlu melatihnya secara terpisah atau mendownloadnya dari sumber tertentu.
+
+## Struktur Direktori
+Pastikan struktur direktori Anda terlihat seperti ini:
+
+ImageClassification_ProyekAkhir_Kelompok7/
+│
+├── app-flask.py
+├── models
+│   └── fruitmodel.h5
+├── templates
+│   └── predict.html
+└── requirements.txt
+
+## Menjalankan Aplikasi
+
+1. Mulai aplikasi Flask:
+
+python app.py
+
+2. Buka browser web Anda dan navigasikan ke:
+
+http://127.0.0.1:5000
+
+3. Unggah gambar buah atau sayur dan lihat hasil klasifikasinya.
+
 ## Akses Proyek:
 - **Repositori:** [Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)
 - **Dataset:** [Link Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
