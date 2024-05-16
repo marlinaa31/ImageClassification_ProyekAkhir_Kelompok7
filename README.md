@@ -16,8 +16,8 @@ Proyek ini merupakan proyek akhir dari praktikum Pembelajaran Mesin. Tujuan utam
 
 Dataset yang digunakan diambil dari situs Kaggle dan berisi gambar-gambar dari berbagai jenis makanan, antara lain:
 
-- Fruits: banana, apple, pear, grapes, orange, kiwi, watermelon, pomegranate, pineapple, mango.
-- Vegetables- cucumber, carrot, capsicum, onion, potato, lemon, tomato, raddish, beetroot, cabbage, lettuce, spinach, soy bean, cauliflower, bell pepper, chilli pepper, turnip, corn, sweetcorn, sweet potato, paprika, jalepeño, ginger, garlic, peas, eggplant.
+- **Fruits:** banana, apple, pear, grapes, orange, kiwi, watermelon, pomegranate, pineapple, mango.
+- **Vegetables:** cucumber, carrot, capsicum, onion, potato, lemon, tomato, raddish, beetroot, cabbage, lettuce, spinach, soy bean, cauliflower, bell pepper, chilli pepper, turnip, corn, sweetcorn, sweet potato, paprika, jalepeño, ginger, garlic, peas, eggplant.
 
 Jumlah data yang tersedia adalah sebagai berikut:
 - **Data training:** 3115 file yang terdiri dari 36 kelas.
@@ -26,54 +26,65 @@ Jumlah data yang tersedia adalah sebagai berikut:
 
 ## Instalasi
 
-### 1. Clone the repository:
+### **1. Clone repositori:**
 
 ```bash
 git clone https://github.com/your-repo/image-classification-flask.git
-
 cd image-classification-flask
+```
 
-### 2. Create a virtual environment and activate it:
+### **2. Buat virtual environment dan aktifkan:**
 
+```bash
 python -m venv venv
-source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
+source venv/bin/activate  # Pada Windows, gunakan 'venv\Scripts\activate'
+```
 
-### 3. Install the required packages:
+### **3. Install paket yang diperlukan:**
 
+```bash
 pip install -r requirements.txt
+```
 
-## 4. Pastikan file model Anda ( fruitmodel.h5) ditempatkan di modelsdirektori. Jika Anda tidak memiliki file model, Anda perlu melatihnya secara terpisah atau mendownloadnya dari sumber tertentu.
+### **4. Pastikan file model Anda (`fruitmodel.h5`) ditempatkan di direktori `models`. Jika Anda tidak memiliki file model, Anda perlu melatihnya secara terpisah atau mengunduhnya dari sumber tertentu.**
 
-## Struktur Direktori
+## **Struktur Direktori**
+
 Pastikan struktur direktori Anda terlihat seperti ini:
 
+```
 ImageClassification_ProyekAkhir_Kelompok7/
 │
 ├── app-flask.py
 ├── models
 │   └── fruitmodel.h5
 ├── templates
-│   └── predict.html
+│   └── index.html
 └── requirements.txt
+```
 
-## Menjalankan Aplikasi
+## **Menjalankan Aplikasi**
 
 1. Mulai aplikasi Flask:
 
+```bash
 python app.py
+```
 
 2. Buka browser web Anda dan navigasikan ke:
 
+```
 http://127.0.0.1:5000
+```
 
 3. Unggah gambar buah atau sayur dan lihat hasil klasifikasinya.
 
-## Akses Proyek:
+## **Akses Proyek:**
 - **Repositori:** [Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)
 - **Dataset:** [Link Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 - **Video:** [Link Video](#)
 
-
-## Proyek ini dapat diakses melalui link sebagai berikut
-- **Deployed App:** [Live App](https://marlinaa31-imageclassification-proyekakhir-kelompok7-app-zswcbb.streamlit.app/)  
+## **Proyek ini dapat diakses melalui link sebagai berikut:**
+- **Deployed App:** [Live App](https://marlinaa31-imageclassification-proyekakhir-kelompok7-app-zswcbb.streamlit.app/)
+```
 
