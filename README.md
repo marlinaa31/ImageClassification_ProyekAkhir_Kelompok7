@@ -20,8 +20,8 @@ Dataset yang digunakan untuk melatih model ini diambil dari situs Kaggle, dengan
 
 ## Akses Projek:
 ## Akses Projek:
-- **Repositori:** [Link Repositori](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
-- **Dataset:** [Link Dataset](#)
+- **Repositori:** [Link Repositori](#)
+- **Dataset:** [Link Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 - **Video:** [Link Video](#)
 
 ## Projek ini dapat diakses melalui link sebagai berikut
