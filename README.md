@@ -15,8 +15,9 @@
 Projek ini merupakan projek akhir dari praktikum Pembelajaran Mesin. Tujuan dari projek ini adalah untuk melakukan klasifikasi gambar buah dan sayuran menggunakan teknik pembelajaran mendalam (deep learning). Kami menggunakan TensorFlow untuk membangun arsitektur Convolutional Neural Network (CNN) yang mampu mengekstraksi fitur-fitur yang ada pada gambar.
 
 Dataset yang digunakan untuk melatih model ini diambil dari situs Kaggle, dengan jumlah data sebagai berikut:
-- **Data training:** --- ribu gambar
-- **Data validation:** --- ribu gambar
+- **Data training:** 3115 file yang terdiri dari 36 kelas
+- **Data testing:** 359 file yang terdiri dari 36 kelas
+- **Data validation:** 351 file yang terdiri dari 36 kelas
 
 ## Akses Projek:
 ## Akses Projek:
