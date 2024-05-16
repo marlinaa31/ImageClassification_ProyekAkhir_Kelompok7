@@ -19,8 +19,9 @@ Dataset yang digunakan untuk melatih model ini diambil dari situs Kaggle, dengan
 - **Data validation:** --- ribu gambar
 
 ## Akses Projek:
-- **Repositori:** [[Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)]
-- **Dataset:** [https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition]
+## Akses Projek:
+- **Repositori:** [Link Repositori](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+- **Dataset:** [Link Dataset](#)
 - **Video:** [Link Video](#)
 
 ## Projek ini dapat diakses melalui link sebagai berikut
