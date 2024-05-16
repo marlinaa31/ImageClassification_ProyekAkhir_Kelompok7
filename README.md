@@ -17,7 +17,7 @@ Proyek ini merupakan proyek akhir dari praktikum Pembelajaran Mesin. Tujuan utam
 Dataset yang digunakan diambil dari situs Kaggle dan berisi gambar-gambar dari berbagai jenis makanan, antara lain:
 
 - Fruits: banana, apple, pear, grapes, orange, kiwi, watermelon, pomegranate, pineapple, mango.
-- vegetables- cucumber, carrot, capsicum, onion, potato, lemon, tomato, raddish, beetroot, cabbage, lettuce, spinach, soy bean, cauliflower, bell pepper, chilli pepper, turnip, corn, sweetcorn, sweet potato, paprika, jalepeño, ginger, garlic, peas, eggplant.
+- Vegetables- cucumber, carrot, capsicum, onion, potato, lemon, tomato, raddish, beetroot, cabbage, lettuce, spinach, soy bean, cauliflower, bell pepper, chilli pepper, turnip, corn, sweetcorn, sweet potato, paprika, jalepeño, ginger, garlic, peas, eggplant.
 
 Jumlah data yang tersedia adalah sebagai berikut:
 - **Data training:** 3115 file yang terdiri dari 36 kelas.
