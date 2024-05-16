@@ -12,12 +12,17 @@
 - **Laila Asrin** (2108107010068)
 
 ## Deskripsi Proyek:
-Proyek ini merupakan proyek akhir dari praktikum Pembelajaran Mesin. Tujuan dari proyek ini adalah untuk melakukan klasifikasi gambar buah dan sayuran menggunakan teknik pembelajaran mendalam (deep learning). Kami menggunakan TensorFlow untuk membangun arsitektur Convolutional Neural Network (CNN) yang mampu mengekstraksi fitur-fitur yang ada pada gambar.
+Proyek ini merupakan proyek akhir dari praktikum Pembelajaran Mesin. Tujuan utamanya adalah melakukan klasifikasi gambar buah dan sayuran menggunakan teknik pembelajaran mendalam (deep learning) dengan menggunakan TensorFlow untuk membangun arsitektur Convolutional Neural Network (CNN) yang dapat mengekstraksi fitur-fitur yang signifikan dari gambar.
 
-Dataset yang digunakan untuk melatih model ini diambil dari situs Kaggle, dengan jumlah data sebagai berikut:
-- **Data training:** 3115 file yang terdiri dari 36 kelas
-- **Data testing:** 359 file yang terdiri dari 36 kelas
-- **Data validation:** 351 file yang terdiri dari 36 kelas
+Dataset yang digunakan diambil dari situs Kaggle dan berisi gambar-gambar dari berbagai jenis makanan, antara lain:
+
+- Buah-buahan: pisang, apel, pir, anggur, jeruk, kiwi, semangka, delima, nanas, mangga.
+- Sayuran: mentimun, wortel, paprika, bawang, kentang, lemon, tomat, lobak, bit, kol, selada, bayam, kacang kedelai, kembang kol, paprika, paprika, cabe, lobak, jagung, jagung manis, ubi jalar, paprika, jalepeño, jahe, bawang putih, kacang polong, terong.
+
+Jumlah data yang tersedia adalah sebagai berikut:
+- **Data training:** 3115 file yang terdiri dari 36 kelas.
+- **Data testing:** 359 file yang terdiri dari 36 kelas.
+- **Data validation:** 351 file yang terdiri dari 36 kelas.
 
 ## Akses Proyek:
 - **Repositori:** [Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)
