@@ -38,6 +38,7 @@ cd ImageClassification_ProyekAkhir_Kelompok7
 
 ```bash
 python -m venv venv
+
 source venv/bin/activate  # Pada Windows, gunakan 'venv\Scripts\activate'
 ```
 
