@@ -29,8 +29,9 @@ Jumlah data yang tersedia adalah sebagai berikut:
 ### **1. Clone repositori:**
 
 ```bash
-git clone https://github.com/your-repo/image-classification-flask.git
-cd image-classification-flask
+git clone https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7.git
+
+cd ImageClassification_ProyekAkhir_Kelompok7
 ```
 
 ### **2. Buat virtual environment dan aktifkan:**
@@ -59,7 +60,7 @@ ImageClassification_ProyekAkhir_Kelompok7/
 ├── models
 │   └── fruitmodel.h5
 ├── templates
-│   └── index.html
+│   └── predict.html
 └── requirements.txt
 ```
 
@@ -68,7 +69,7 @@ ImageClassification_ProyekAkhir_Kelompok7/
 1. Mulai aplikasi Flask:
 
 ```bash
-python app.py
+python app-flask.py
 ```
 
 2. Buka browser web Anda dan navigasikan ke:
