@@ -84,7 +84,7 @@ http://127.0.0.1:5000
 - **Dataset:** [Link Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 - **Video:** [Link Video](#)
 
-## **Proyek ini dapat diakses melalui link sebagai berikut:**
+## **Proyek ini dapat diakses melalui link streamlit sebagai berikut:**
 - **Deployed App:** [Live App](https://marlinaa31-imageclassification-proyekakhir-kelompok7-app-zswcbb.streamlit.app/)
 ```
 
