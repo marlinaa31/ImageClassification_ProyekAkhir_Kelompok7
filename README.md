@@ -19,7 +19,7 @@ Dataset yang digunakan untuk melatih model ini diambil dari situs Kaggle, dengan
 - **Data validation:** --- ribu gambar
 
 ## Akses Projek:
-- **Repositori:** [Link Repositori](#)
+- **Repositori:** [[Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)](#)
 - **Dataset:** [Link Dataset](#)
 - **Video:** [Link Video](#)
 
