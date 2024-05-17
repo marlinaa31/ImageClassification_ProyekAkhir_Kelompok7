@@ -84,7 +84,7 @@ http://127.0.0.1:5000
 ## **Akses Proyek:**
 - **Repositori:** [Link Repositori](https://github.com/marlinaa31/ImageClassification_ProyekAkhir_Kelompok7)
 - **Dataset:** [Link Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
-- **Video:** [Link Video](#)
+- **Video:** [Link Video](https://drive.google.com/drive/folders/1kChXvx-FWrdbM3BaNe_LQTw83-AfIDIR?usp=sharing)
 
 ## **Proyek ini telah di deploy ke local menggunakan Flask dan juga dapat diakses melalui link streamlit sebagai berikut:**
 - **Deployed App:** [Live App](https://marlinaa31-imageclassification-proyekakhir-kelompok7-app-zswcbb.streamlit.app/)
